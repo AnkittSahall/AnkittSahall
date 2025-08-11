@@ -10,6 +10,8 @@
 
 ### 🤖 About Me
 
+<img align="right" alt="AI Automation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
 ```javascript
 // Hey there! Welcome to my chaotic world of code and coffee ☕
 const me = {
@@ -58,6 +60,8 @@ const me = {
 // Yep, this is me in a nutshell 🥜
 console.log("Thanks for stopping by my digital corner!");
 ```
+
+<br clear="both"/>
 
 **🎯 What I'm Currently Breaking... I mean Building:**
 - 🕷️ **Smart web scrapers** that actually work (sometimes)
