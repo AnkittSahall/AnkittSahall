@@ -6,13 +6,13 @@
 
 <h3 align="center">A passionate AI & Automation Engineer from India</h3>
 
-- 🔭 I'm currently working on **making robots do my job better than me**
+🔭 I'm currently working on **making robots do my job better than me**
 
-- 🌱 I'm currently learning **how to make AI even smarter** (and hopefully not replace me)
+🌱 I'm currently learning **how to make AI even smarter** (and hopefully not replace me)
 
-- 💬 Ask me about **breaking websites with Selenium, making Python do magic, or teaching ChatGPT new tricks**
+💬 Ask me about **breaking websites with Selenium, making Python do magic, or teaching ChatGPT new tricks**
 
-- 📫 How to reach me: **ankitsahal965@gmail.com**
+📫 How to reach me: **ankitsahal965@gmail.com**
 
 ---
 
@@ -59,7 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkittSahall&theme=tokyonight" alt="AnkittSahall" />
 </p>
 
----
+
 
 AI & automation engineer building intelligent solutions one script at a time.  
 All automation projects are built from the ground up, from planning and designing all the way to solving real-life problems with **code** and **AI**.
