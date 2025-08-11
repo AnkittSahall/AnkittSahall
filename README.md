@@ -10,37 +10,129 @@
 
 ### 🤖 About Me
 
-```python
-class AnkitSahal:
-    def __init__(self):
-        self.name = "Ankit Sahal"
-        self.location = "Pune, Maharashtra 🏙️"
-        self.role = "AI & Automation Engineer"
-        self.experience = "1.5+ years building intelligent solutions"
-        self.passion = "Creating AI-powered automations that change the world"
-        self.motto = "If it can be automated, it should be automated 🤖"
-        
-    def current_focus(self):
-        return [
-            "🧠 Advanced Prompt Engineering",
-            "🔧 Selenium Test Automation", 
-            "🤖 AI-Powered Workflows",
-            "⚡ Smart Automation Solutions",
-            "🚀 Next-Gen AI Applications"
-        ]
-        
-    def ai_tools_mastery(self):
-        return {
-            "coding_assistants": ["Cursor", "GitHub Copilot", "Claude", "ChatGPT"],
-            "ai_platforms": ["V0.dev", "Bolt.new", "Replit AI", "CodePen AI"],
-            "automation": ["Selenium", "PyAutoGUI", "Beautiful Soup"],
-            "prompt_engineering": ["Advanced prompting", "Chain-of-thought", "Few-shot learning"]
-        }
+<div align="center">
 
-# Initialize the AI Engineer
-ankit = AnkitSahal()
-print("🚀 Welcome to the future of automation!")
+```ascii
+    ╔═══════════════════════════════════════════════════════════════╗
+    ║                    🚀 ANKIT'S AI LAB 🚀                      ║
+    ║               Where Code Meets Artificial Magic!              ║
+    ╚═══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
+
+```javascript
+// Welcome to my digital universe! 🌌
+const AnkitSahal = {
+    🏠 location: "Pune, Maharashtra (The Silicon Valley of India!)",
+    ⚡ mode: "BEAST_MODE_ACTIVATED",
+    🧠 brain: "Powered by caffeine and AI curiosity",
+    💻 setup: "Dual monitors + Dark theme + Lo-fi music = Perfect coding environment",
+    
+    🎯 currentMission: () => {
+        while(coffee.level > 0) {
+            if(task.isManual()) {
+                automate(task);
+                celebrate("Another human freed from repetitive work! 🎉");
+            }
+            
+            if(ai.canDoItBetter()) {
+                implement(ai.solution);
+                mindBlown("AI just solved it in 0.3 seconds! 🤯");
+            }
+            
+            drink(coffee);
+            code(passion);
+        }
+    },
+    
+    🔥 superpowers: [
+        "🧙‍♂️ Prompt Engineering Wizard (I speak fluent AI)",
+        "🕷️ Selenium Automation Master (Web scraping ninja)",
+        "🐍 Python Whisperer (Snakes obey my commands)",
+        "🤖 AI Integration Specialist (Making robots my friends)",
+        "☕ Coffee-to-Code Converter (My primary fuel source)"
+    ],
+    
+    💭 thoughts: {
+        morning: "How many things can I automate today?",
+        afternoon: "Why is this bug happening? *googles for 3 hours*",
+        evening: "Just one more feature... *codes until 2 AM*",
+        night: "I should sleep... but this AI model is so interesting!"
+    },
+    
+    🎮 dailyQuests: [
+        "✅ Make AI do something it wasn't supposed to do",
+        "✅ Automate at least one boring task", 
+        "✅ Teach a computer to be smarter than me",
+        "⏳ Debug code that worked yesterday",
+        "⏳ Resist the urge to rewrite everything from scratch"
+    ],
+    
+    🏆 achievements: {
+        "Bug Whisperer": "Fixed 99 bugs, created 100 new ones",
+        "Automation Addict": "If it moves, I'll automate it",
+        "AI Enthusiast": "Tried every AI tool known to humanity",
+        "Stack Overflow Legend": "Asked questions, got roasted, learned humility",
+        "Coffee Consumer": "Single-handedly keeping coffee industry alive"
+    },
+    
+    🌟 lifePhilosophy: "Why do it manually when you can spend 3 hours automating a 5-minute task?"
+};
+
+// Initialize the chaos
+console.log("🎭 Welcome to my digital playground!");
+console.log("🚀 Where bugs become features and features become... well, more bugs!");
+```
+
+```bash
+# My typical day in terminal commands 💻
+$ whoami
+ankit_the_automation_wizard
+
+$ pwd  
+/home/ankit/life/endless_coding_journey
+
+$ ls -la passions/
+drwxr-xr-x  ai_experimentation/     🧪 "Breaking AI, one prompt at a time"
+drwxr-xr-x  selenium_sorcery/       🕷️ "Making browsers dance to my code"
+drwxr-xr-x  python_wizardry/        🐍 "Snake charming since 2023"
+drwxr-xr-x  prompt_engineering/     🧠 "Teaching AI to think like me (scary!)"
+drwxr-xr-x  automation_empire/      🏭 "World domination through automation"
+
+$ cat /etc/ankit-config
+CAFFEINE_LEVEL=MAXIMUM
+DEBUGGING_MODE=ALWAYS_ON  
+AUTOMATION_OBSESSION=TRUE
+AI_CURIOSITY=INFINITE
+SLEEP_SCHEDULE=404_NOT_FOUND
+
+$ history | tail -5
+  1337  git commit -m "It works on my machine 🤷‍♂️"
+  1338  python automate_everything.py
+  1339  sudo rm -rf boredom/
+  1340  pip install coffee
+  1341  while true; do code; done
+```
+
+<div align="center">
+
+### 🎯 Current Status Dashboard
+
+```
+┌─── ANKIT'S LIVE STATS ───────────────────────────┐
+│ 🧠 AI Knowledge:     [████████████████████] 100% │
+│ ☕ Coffee Dependency: [████████████████████] 100% │
+│ 🐛 Debugging Skills: [███████████████▓▓▓▓▓] 75%  │
+│ 😴 Sleep Schedule:   [██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 10%  │
+│ 🚀 Automation Level: [████████████████████] 100% │
+│ 🤯 Mind Blown Today: [████████████████████] ∞    │
+└───────────────────────────────────────────────────┘
+```
+
+**🎭 Fun Fact:** I once automated the process of making coffee, but then spent more time debugging the coffee bot than it would have taken to make coffee for a year! ☕🤖
+
+</div>
 
 ### 🎯 What I'm Building
 - 🤖 **AI-Powered Web Scrapers** that learn and adapt
