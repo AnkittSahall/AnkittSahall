@@ -14,7 +14,7 @@
 
 📫 How to reach me: **ankitsahal965@gmail.com**
 
-
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +28,7 @@
 
 <br/>
 
-
-
-
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,7 +48,7 @@
 
 <br/>
 
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkittSahall&show_icons=true&locale=en&theme=tokyonight" alt="AnkittSahall" height="180" />
