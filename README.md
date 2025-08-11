@@ -54,4 +54,4 @@
 </p>
 
 AI & automation engineer building intelligent solutions one script at a time.  
-All automation projects are built from the ground up, from planning and designing all the way to solving real-life problems with **code** and **AI**.
+All automation projects are built from the ground up, from planning and designing all the way to solving real-life problems with **code** and **AI**
