@@ -6,11 +6,11 @@
 
 <h3 align="center">A passionate AI & Automation Engineer from India</h3>
 
-- 🔭 I'm currently working on **AI-powered automation projects**
+- 🔭 I'm currently working on **making robots do my job better than me**
 
-- 🌱 I'm currently learning **Advanced Prompt Engineering and DevOps**
+- 🌱 I'm currently learning **how to make AI even smarter** (and hopefully not replace me)
 
-- 💬 Ask me about **AI tools, Selenium automation, Python scripting, and Prompt Engineering**
+- 💬 Ask me about **breaking websites with Selenium, making Python do magic, or teaching ChatGPT new tricks**
 
 - 📫 How to reach me **your-email@gmail.com**
 
