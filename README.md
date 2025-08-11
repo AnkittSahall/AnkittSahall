@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ankit+Sahal!;AI+%26+Automation+Engineer+🤖;Prompt+Engineering+Expert+🧠;Building+Cool+Automations+🚀;" />
 </h1>
 
-<h3 align="center">🧠 AI Engineer | 🔧 Automation Specialist | 🎯 Prompt Engineering Expert</h3>
-
 <img align="right" alt="AI Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <div align="left">
