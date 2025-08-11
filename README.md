@@ -40,8 +40,6 @@
 
 <br/>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=AnkittSahall&theme=react-dark)](https://github.com/AnkittSahall)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkittSahall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnkittSahall" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkittSahall&show_icons=true&locale=en&theme=tokyonight" alt="AnkittSahall" /></p>
