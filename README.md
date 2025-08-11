@@ -14,8 +14,6 @@
 
 - 📫 How to reach me: **your-email@gmail.com**
 
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin" target="blank">
@@ -27,8 +25,6 @@
 </p>
 
 <br/>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,8 +44,6 @@
 
 <br/>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkittSahall&show_icons=true&locale=en&theme=tokyonight" alt="AnkittSahall" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkittSahall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnkittSahall" height="180" />
@@ -59,9 +53,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkittSahall&theme=tokyonight" alt="AnkittSahall" />
 </p>
 
----
-
 AI & automation engineer building intelligent solutions one script at a time.  
 All automation projects are built from the ground up, from planning and designing all the way to solving real-life problems with **code** and **AI**.
-
----
