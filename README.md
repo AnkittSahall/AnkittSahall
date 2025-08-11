@@ -51,12 +51,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkittSahall&show_icons=true&locale=en&theme=tokyonight" alt="AnkittSahall" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkittSahall&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnkittSahall" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrtitaniumJ&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrtitaniumJ&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkittSahall&theme=tokyonight" alt="AnkittSahall" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrtitaniumJ&theme=tokyonight&hide_border=true" />
 </p>
 
 
