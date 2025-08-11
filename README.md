@@ -1,7 +1,7 @@
 [![AI Header](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/AnkittSahall)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=🤖+AI+%26+Automation+Engineer;🚀+Prompt+Engineering+Expert;⚡+Building+The+Future+with+AI;🔥+Automation+Enthusiast;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ankit+Sahal!;AI+%26+Automation+Engineer+🤖;Prompt+Engineering+Expert+🧠;Building+Cool+Automations+🚀;" />
 </h1>
 
 <h3 align="center">🧠 AI Engineer | 🔧 Automation Specialist | 🎯 Prompt Engineering Expert</h3>
@@ -163,9 +163,10 @@ print("🚀 Welcome to the future of automation!")
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-sahal/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitsahal965@gmail.com)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnkittSahall)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF6B35?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.dev)
 
 </div>
 
